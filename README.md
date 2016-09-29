@@ -14,3 +14,7 @@
 [类似新浪微博帖子显示话题、@好友、表情解析等](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821103&idx=1&sn=f0c1b4064c2b527d6fad288ab0319c8e&chksm=80b78571b7c00c675d6ec9c5fb02a6e51183646e4a1cbc16fc44aab376cd4e826a9e387e9861&mpshare=1&scene=1&srcid=0927kmNT88pqa7A5OZ4snDhh#rd 'lihongjiang')
 
 [Android抽奖转盘的实现 ](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650237117&idx=1&sn=0fb217e06519c012402b55de34d19c17&chksm=886399d2bf1410c4c80da4a60c5944e1215c43cd9dd64022f50442ac9b9d312029202e9a21d3&mpshare=1&scene=1&srcid=0927WDXAIuFQuQ6uuQULjBVj#rd 'lihongjiang')
+
+[炫酷进度条：Android 仿应用宝下载进度条](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821128&idx=1&sn=a23248ae0b11c9dc05877de8ff66846c&chksm=80b78696b7c00f8082156e216b3fc795c8afd337968aa2d92e13379c1d288d8c96d617c64925&mpshare=1&scene=1&srcid=0929sM1idFv6HtsIQXNYTzPw#rd)
+
+[http如何像tcp一样实时的收消息？](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651959605&idx=1&sn=21f25087bef3c3a966ef03b824365621&mpshare=1&scene=1&srcid=0929Or9c6skneiPUT2fl8N6A#rd)
