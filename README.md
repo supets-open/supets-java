@@ -26,3 +26,8 @@
 [使用 CoordinatorLayout 打造一个炫酷的详情页（上）](http://mp.weixin.qq.com/s?__biz=MzA3MDMyMjkzNg==&mid=2652261960&idx=1&sn=98ea2aed7cb750c94df8c51fcfe747c1&mpshare=1&scene=1&srcid=0929OXh7YJegY2OJB8aAdA1k#rd)
 
 [使用 CoordinatorLayout 打造一个炫酷的详情页（下）](http://mp.weixin.qq.com/s?__biz=MzA3MDMyMjkzNg==&mid=2652261960&idx=2&sn=0a4c367d7c25ef6752c445a7a918bc80&mpshare=1&scene=1&srcid=0929PeEFudnQ8yUeXBzQLuhG#rd)
+
+[Android 之 GPU过度绘制与图形渲染优化](http://mp.weixin.qq.com/s?__biz=MzA3MDMyMjkzNg==&mid=2652261954&idx=1&sn=c2fa93f94948145561f36ebb9ebf20ca&mpshare=1&scene=1&srcid=0929z9kymBfDsYDLUPZP81hf#rd)
+
+[Android 端应用秒开优化体验](http://mp.weixin.qq.com/s?__biz=MzA3MDMyMjkzNg==&mid=2652261950&idx=1&sn=22eee62d5742d46366e7bfbd67439f53&mpshare=1&scene=1&srcid=0929Ek9QYFqCfoZM1jSNdmlj#rd)
+
