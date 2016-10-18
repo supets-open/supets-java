@@ -1,0 +1,4 @@
+* [Android Studio插件之MVPHelper，一键生成MVP代码](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821254&idx=1&sn=00135425de3be0834fb84fbe3fd90aea&chksm=80b78618b7c00f0e977f43710fa9e216466aaac91ead5ac8d377b313b929bcf79e5bc1f1d93a&mpshare=1&scene=1&srcid=1018534ai8sN0dsSxdEMJx57#rd)
+* [自己编写Android Studio插件 别停留在用的程度了](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820316&idx=1&sn=49d4e6b68b114a2e8a8e88f3d1b0cd9e&scene=21#wechat_redirect)
+* [Android Studio自定义模板  写页面竟然可以如此轻松](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820397&idx=1&sn=dd26d1dc56a31bff805afbbf65e15d3d&scene=21#wechat_redirect)
+* [神奇的Android Studio Template ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820341&idx=1&sn=fa0b3094e1970989ffdff05c878ba53d&scene=21#wechat_redirect)
