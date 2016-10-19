@@ -1,0 +1,1 @@
+* [你真的了解weight和weightSum吗？ ](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650237421&idx=1&sn=f40d40661311f40bb1d4ea92f9d74833&chksm=88639882bf1411941022464b43965600acc0185065ed47f72ed902ccb3901f7e5cf3410e4835&mpshare=1&scene=1&srcid=1019b0j6ecup07Hc0KK9EkgK#rd)
