@@ -1,0 +1,8 @@
+.[Retrofit 2.0 超能实践（一），完美支持加密Https传输](http://www.jianshu.com/p/16994e49e2f6)
+.[Retrofit 2.0 超能实践（二），完美同步持久Cookie实现免登录](http://www.jianshu.com/p/1a5f14b63f47)
+.[Retrofit 2.0 超能实践（三），轻松实现多文件/图片上传](http://www.jianshu.com/p/acfefb0a204f)
+.[Retrofit 2.0 超能实践（四），完成大文件断点下载](http://www.jianshu.com/p/582e0a4a4ee9)
+.[Retrofit 对Okhttp每个Request统一添加header和Parameter（五）](http://www.jianshu.com/p/e02cfaa671e4)
+.[Android基于Retrofit2.0 封装的超好用的RetrofitClient工具类（完美结合RxJava）（六）](http://www.jianshu.com/p/29c2a9ac5abf)
+.[玩转IOC和AOP, 徒手实现属于你的Retrofit框架（七）](http://www.jianshu.com/p/17305f991ed8)
+.[Rxjava +Retrofit 你需要掌握的几个技巧，Retrofit缓存，统一对有无网络处理, 异常处理，返回结果问题](http://www.jianshu.com/p/b1979c25634f)
