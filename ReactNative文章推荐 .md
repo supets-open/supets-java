@@ -14,3 +14,4 @@
 * [基础篇章：关于 React Native 之 ListView 组件的讲解 ](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058331&idx=1&sn=145db2e8329271e9d71e650083076b71&chksm=bd5656278a21df316a35b1fd0c6e8eca1b4c08f1c92a477fbd82686cae81a4f20b26b3ca235f&mpshare=1&scene=23&srcid=1103ucm6GriImEMnqTMN3DFR#rd)
 * [解决react-native 创建工程、init过程太慢的问题](http://blog.csdn.net/u011213996/article/details/51906582)
 * [React Native开发之npm start加速](http://www.cnblogs.com/meteoric_cry/p/5830535.html)
+* [React Native 0.31 Bundle 预加载优化](http://android.jobbole.com/84313/)
