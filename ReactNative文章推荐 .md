@@ -12,3 +12,5 @@
 * [基础篇章：React Native之 Image 的讲解](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058279&idx=1&sn=b214c48d9b016c7394d3fbde47c94d08&chksm=bd5657db8a21decd44d7d02efba9b6e6a132c5e14c0bb30a79fdb6bfa23b933bb18049b6669e&mpshare=1&scene=23&srcid=11029d8MKe1IbYqlwZgQeo4w#rd)
 * [基础篇章：关于 React Native 之 Touchable 系列组件的讲解](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058321&idx=1&sn=2c33c16c90d09b94373af5b4f7730e96&chksm=bd56562d8a21df3b842b21e0bd194f2138d2cf94952f25ccedbc76c087328eeb74aa3f7a2605&mpshare=1&scene=23&srcid=11029Ds39eDOAqX6LTHGopyD#rd)
 * [基础篇章：关于 React Native 之 ListView 组件的讲解 ](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058331&idx=1&sn=145db2e8329271e9d71e650083076b71&chksm=bd5656278a21df316a35b1fd0c6e8eca1b4c08f1c92a477fbd82686cae81a4f20b26b3ca235f&mpshare=1&scene=23&srcid=1103ucm6GriImEMnqTMN3DFR#rd)
+* [解决react-native 创建工程、init过程太慢的问题](http://blog.csdn.net/u011213996/article/details/51906582)
+* [React Native开发之npm start加速](http://www.cnblogs.com/meteoric_cry/p/5830535.html)
