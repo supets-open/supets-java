@@ -1,3 +1,4 @@
 - [WebView控件之WebSettings各种配置方法源码总结](http://teachcourse.cn/android-webview-websettings)
 - [Native与H5交互的那些事](http://zhengxiaoyong.me/2016/04/20/Native%E4%B8%8EH5%E4%BA%A4%E4%BA%92%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
 - [Android中JS与Java的极简交互库－SimpleJavaJsBridge ](http://mp.weixin.qq.com/s?__biz=MzA3MDMyMjkzNg==&mid=2652262014&idx=1&sn=13bd65ac4dbd6900c4190f2420d2f2bb&chksm=84dc71e9b3abf8ff633db924b8560e012f130ee1b9ef1b2484085306faeafba38904fb0e9c75&mpshare=1&scene=1&srcid=1013wnuRtZ9gn0DAjxMK6mQQ#rd)
+- [WebView控件中的onConsoleMessage方法不被调用](http://www.blogjava.net/xmlspy/archive/2013/04/28/398522.html)
