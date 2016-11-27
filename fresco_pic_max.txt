@@ -1,1 +1,1 @@
-{"mode":"brandModel","width":480,"height":480,"brandlist":[],"code:"200}
+{"mode":"brandModel","width":100,"height":100,"brandlist":[],"code:"200}
