@@ -1,1 +1,1 @@
-{"mode":"brandModel","width":100,"height":100,"brandlist":["HUAWEI"],"code":200}
+{"mode":"brandModel","width":100,"height":100,"brandlist":["HuaweiHUAWEI C881818"],"code":200}
