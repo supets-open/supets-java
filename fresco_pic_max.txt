@@ -1,1 +1,1 @@
-{"mode":"brandModel","width":640,"height":640,"brandlist":["HUAWEI TAG-TL00","HUAWEI C8818"],"code":200}
+{"mode":"brandModel","width":720,"height":720,"brandlist":["HUAWEI TAG-TL00","HUAWEI C8818"],"code":200}
