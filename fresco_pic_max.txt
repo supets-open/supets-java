@@ -4,10 +4,25 @@
     "height": 720,
     "brandlist": [
         {
-            "name": "asa"
+            "name": "sasasas"
         },
         {
-            "name": "asa"
+            "name": "lihongjiang"
+        },
+        {
+            "name": "nihaoaaaaa"
+        },
+        {
+            "name": "aasasasa"
+        },
+        {
+            "name": "sasasasas"
+        },
+        {
+            "name": "sasa"
+        },
+        {
+            "name": "saswww"
         }
     ],
     "code": 200
